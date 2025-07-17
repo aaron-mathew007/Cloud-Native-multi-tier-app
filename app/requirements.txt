@@ -1,0 +1,9 @@
+# requirements.txt
+# Purpose: Lists Python dependencies for FastAPI application.
+# Optimized for minimal footprint to stay within Free Tier.
+
+fastapi==0.95.0
+uvicorn==0.20.0
+prometheus-fastapi-instrumentator==6.0.0
+sqlalchemy==1.4.46
+psycopg2-binary==2.9.5
